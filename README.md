@@ -6,4 +6,6 @@ The "Aulas" and "Codelabs" folders are just to keep track of the module content 
 
 The "Projetos" folder holds the projects that are properly commented and explained.
 
+Some lessons were developed in groups, and since they were not completely done by me they will not be present in this repository.
+
 All documents (this file being the only exception) are in Brazilian Portuguese.
