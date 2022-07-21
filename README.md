@@ -6,6 +6,4 @@ The "Aulas" and "Codelabs" folders are just to keep track of the module content 
 
 The "Projetos" folder holds the projects that are properly commented and explained.
 
-The "Datasets" folder holds some of the datasets used, all datasets can be found on the internet, so only some will be stored in this repository.
-
 All documents (this file being the only exception) are in Brazilian Portuguese.
